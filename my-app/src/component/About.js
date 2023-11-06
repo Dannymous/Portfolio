@@ -329,7 +329,7 @@ function About() {
                   }}
                 >
                   <a
-                    href="https://hotel-demo-six.vercel.app/"
+                    href="https://hoteldemo2.onrender.com/"
                     target="_blank"
                     className="btn btn-primary"
                   >
@@ -408,7 +408,7 @@ function About() {
                   }}
                 >
                   <a
-                    href="https://react-project-wrr2.vercel.app/"
+                    href="https://react-project-theta-five.vercel.app/"
                     target="_blank"
                     className="btn btn-primary"
                   >
